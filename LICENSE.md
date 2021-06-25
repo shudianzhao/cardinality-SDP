@@ -1,4 +1,4 @@
-raph partition via ADMM] -- [Tight SDP relaxations for cardinality-constrained problems]
+[Cardinality-constrained problems] -- [Tight SDP relaxations for cardinality-constrained problems]
 
 Copyright (C) 1998--2021 Shudian Zhao shudian.zhao@aau.at
 
