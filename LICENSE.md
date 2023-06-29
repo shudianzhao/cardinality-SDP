@@ -1,6 +1,6 @@
 [Cardinality-constrained problems] -- [Tight SDP relaxations for cardinality-constrained problems]
 
-Copyright (C) 1998--2021 Shudian Zhao shudian.zhao@aau.at
+Copyright (C) 1998--2021 Shudian Zhao shudian@kth.se
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
